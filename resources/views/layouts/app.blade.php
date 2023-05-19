@@ -11,7 +11,7 @@
         background-image: url({{ asset('images/4907157.jpg') }});
         background-size: cover;
         background-position: center;
-        background-repeat: no-repeat;
+        background-repeat: inherit;
     }
     </style>
 </head>
